@@ -69,6 +69,13 @@
 ---
 
 ### 🎞️ Snake GIF (Bonus)
+
+![Snake animation gif](https://raw.githubusercontent.com/Nawaz-B-04/Nawaz-B-04/main/dist/github-contribution-grid-snake.gif)
+
+
+---
+
+### 🎞️ Snake GIF (Bonus)
 ![Snake animation gif](https://raw.githubusercontent.com/Nawaz-B-04/Nawaz-B-04/main/dist/github-contribution-grid-snake.gif)
 
 ---
