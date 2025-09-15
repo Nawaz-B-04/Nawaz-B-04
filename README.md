@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nawazish Majid Bidiwale</h1>
-<h3 align="center">A passionate MERN Stack Developer | C++ | DSA | System Design Enthusiast</h3>
+<h3 align="center">A passionate MERN Stack Developer | C++ | Java | DSA | System Design Enthusiast</h3>
 
 ---
 
