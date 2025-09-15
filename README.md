@@ -50,11 +50,11 @@
 
 ### 📈 GitHub Stats
 
-![Nawazish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NawazishMajid&show_icons=true&theme=tokyonight)
+![Nawazish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nawaz-B-04&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NawazishMajid&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaz-B-04&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NawazishMajid&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nawaz-B-04&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 
