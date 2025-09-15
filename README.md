@@ -58,27 +58,5 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nawaz-B-04/Nawaz-B-04/main/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nawaz-B-04/Nawaz-B-04/main/dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Nawaz-B-04/Nawaz-B-04/main/dist/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-### 🎞️ Snake GIF (Bonus)
-
-![Snake animation gif](https://raw.githubusercontent.com/Nawaz-B-04/Nawaz-B-04/main/dist/github-contribution-grid-snake.gif)
-
-
----
-
-### 🎞️ Snake GIF (Bonus)
-![Snake animation gif](https://raw.githubusercontent.com/Nawaz-B-04/Nawaz-B-04/main/dist/github-contribution-grid-snake.gif)
-
----
-
 ### ✨ Fun Quote
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
