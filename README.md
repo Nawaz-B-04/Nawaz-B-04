@@ -41,6 +41,11 @@
   <div style="background-color:#4EA94B; width:70%; padding:5px; border-radius:10px; text-align:center;">70%</div>
 </div>
 
+<p>Java</p>
+<div style="background-color:#e0e0e0; border-radius:10px; width:80%;">
+  <div style="background-color:#00599C; width:85%; padding:5px; border-radius:10px; text-align:center;">60%</div>
+</div>
+
 <p>C++</p>
 <div style="background-color:#e0e0e0; border-radius:10px; width:80%;">
   <div style="background-color:#00599C; width:85%; padding:5px; border-radius:10px; text-align:center;">85%</div>
